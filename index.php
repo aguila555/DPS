@@ -24,7 +24,7 @@
 </style> hols
 
 
-<h1 align="center">LOS PRODCUTOS QUE TE OFRECEMOS 2 munfo shhhsdjjs</h1>
+<h1 align="center">LOS PRODCUTOS QUE TE OFRECEMOS</h1>
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12">
